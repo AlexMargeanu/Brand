@@ -50,14 +50,14 @@ particlesJS('particles-js',
       },
       "line_linked": {
         "enable": true,
-        "distance": 150,
+        "distance": 90,
         "color": "#ffffff",
-        "opacity": 0.7,
-        "width": 1
+        "opacity": 0.9,
+        "width": 1.2
       },
       "move": {
         "enable": true,
-        "speed": .8,
+        "speed": .3,
         "direction": "none",
         "random": true,
         "straight": false,

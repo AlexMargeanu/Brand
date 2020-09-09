@@ -10,8 +10,9 @@
   width: 100vw;
 }
 .particlesJs {
-  width: 100%;
+  width: 90%;
   height: 100%;
+  margin-top: 1.2rem;
 }
 
 .left {
@@ -175,7 +176,6 @@ h3 {
 }
 .fadeInThree {
   margin-top: -1.4rem;
-  background-color: lavender;
   padding-bottom: 1rem;
 }
 .line {
@@ -1233,3 +1233,8 @@ transform: scaleX(1);
  transform: translateY(-8px);
  }
 }
+@media only screen and (min-width: 1370px) and (max-width: 1605px)  { 
+  * {
+    background-color: red;
+  }
+}  
