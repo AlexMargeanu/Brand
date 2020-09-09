@@ -175,6 +175,8 @@ h3 {
 }
 .fadeInThree {
   margin-top: -1.4rem;
+  background-color: lavender;
+  padding-bottom: 1rem;
 }
 .line {
  display: inline-block;
